@@ -37,5 +37,8 @@
 ## Imagem da placa:
 ![placa](https://github.com/yan-trindade/fonte-de-tensao/assets/67748194/ab37dfb4-bc02-4a5e-836e-d76fcc604ac3)
 
+## Video da placa:
+https://github.com/yan-trindade/fonte-de-tensao/assets/154704245/36739547-19f4-45a3-b886-160b59d19b87
+
 
 
