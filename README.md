@@ -14,7 +14,7 @@
 ##  Projeto no Eagle:
 ### Esquemático:
 ![eagle_circuito](https://github.com/yan-trindade/fonte-de-tensao/assets/67748194/99b5c3eb-b81f-4865-8a05-a7497fe3b4ae)
-### PCB
+### PCB:
 ![pcb](https://github.com/yan-trindade/fonte-de-tensao/assets/67748194/bf5a0109-30b0-43bf-9db5-a32d192f40dd)
 
 ## Cálculos:
